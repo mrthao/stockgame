@@ -1,0 +1,21 @@
+# stockgame
+BAB - Giá hnay: 20.5. Giá hqua: 20.4. Giá thấp nhât 3 tháng: 20.3. Giá cao nhât 3 tháng: 20.7
+LPB - Giá hnay: 8.8. Giá hqua: 8.7. Giá thấp nhât 3 tháng: 8.7. Giá cao nhât 3 tháng: 10
+ADS - Giá hnay: 13.6. Giá hqua: 13.5. Giá thấp nhât 3 tháng: 13.1. Giá cao nhât 3 tháng: 15.05
+BVH - Giá hnay: 88.7. Giá hqua: 88.5. Giá thấp nhât 3 tháng: 88.2. Giá cao nhât 3 tháng: 102.5
+C32 - Giá hnay: 26.05. Giá hqua: 26. Giá thấp nhât 3 tháng: 25.7. Giá cao nhât 3 tháng: 28.77
+CII - Giá hnay: 24.3. Giá hqua: 24.15. Giá thấp nhât 3 tháng: 23.15. Giá cao nhât 3 tháng: 27.4
+DGW - Giá hnay: 22.55. Giá hqua: 22.5. Giá thấp nhât 3 tháng: 22. Giá cao nhât 3 tháng: 25.55
+DHC - Giá hnay: 30.25. Giá hqua: 29.9. Giá thấp nhât 3 tháng: 29.2. Giá cao nhât 3 tháng: 35.2
+E1VFVN30 - Giá hnay: 14.25. Giá hqua: 14.15. Giá thấp nhât 3 tháng: 13.92. Giá cao nhât 3 tháng: 15.59
+FPT - Giá hnay: 42.8. Giá hqua: 42.5. Giá thấp nhât 3 tháng: 40.8. Giá cao nhât 3 tháng: 45.1
+FUESSV50 - Giá hnay: 12.1. Giá hqua: 12.05. Giá thấp nhât 3 tháng: 11.73. Giá cao nhât 3 tháng: 13.2
+GDT - Giá hnay: 40.3. Giá hqua: 39.9. Giá thấp nhât 3 tháng: 39.5. Giá cao nhât 3 tháng: 44.8
+NCT - Giá hnay: 72.4. Giá hqua: 72. Giá thấp nhât 3 tháng: 70.8. Giá cao nhât 3 tháng: 75
+PDR - Giá hnay: 25.7. Giá hqua: 25.65. Giá thấp nhât 3 tháng: 25.1. Giá cao nhât 3 tháng: 27.6
+SBA - Giá hnay: 14.05. Giá hqua: 14. Giá thấp nhât 3 tháng: 13.85. Giá cao nhât 3 tháng: 14.5
+SBT - Giá hnay: 19.8. Giá hqua: 19.65. Giá thấp nhât 3 tháng: 19.65. Giá cao nhât 3 tháng: 22.7
+SCR - Giá hnay: 7.31. Giá hqua: 7.2. Giá thấp nhât 3 tháng: 7.05. Giá cao nhât 3 tháng: 8.29
+VTO - Giá hnay: 7.7. Giá hqua: 7.59. Giá thấp nhât 3 tháng: 7.4. Giá cao nhât 3 tháng: 8.2
+DP3 - Giá hnay: 87.5. Giá hqua: 87. Giá thấp nhât 3 tháng: 84. Giá cao nhât 3 tháng: 96.43
+GKM - Giá hnay: 14.7. Giá hqua: 14.6. Giá thấp nhât 3 tháng: 14.32. Giá cao nhât 3 tháng: 15.8
